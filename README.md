@@ -1,3 +1,3 @@
 # Utilities
 
-## Some useful scripts/etc to have on hand.
+Some useful scripts/etc to have on hand.
