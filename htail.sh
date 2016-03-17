@@ -48,9 +48,9 @@ fi
 
 while [ "$1" != "" ]; do
   case $1 in
-  	  -h|--help)
-		usage
-		;;
+      -h|--help)
+	usage
+	;;
       -f) 
         FILE=$2
         shift
