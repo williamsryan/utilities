@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 usage() {
   echo "Usage: $0 -f [file] -n [offset]";
