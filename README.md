@@ -10,3 +10,7 @@ Some useful scripts/etc to have on hand.
 ```sh
 alias htail="./htail.sh"
 ```
+
+`brightnessLevel.sh`
+- Controller for the screen brightness of a Toshiba Chromebook running Linux
+- Wrote this to bind to manually set brightness or increment/decrement on bound function key
