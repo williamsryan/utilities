@@ -51,11 +51,11 @@ while [ "$1" != "" ]; do
       -h|--help)
 	usage
 	;;
-      -f) 
+      -f|--file) 
         FILE=$2
         shift
         ;;  
-      -n) 
+      -n|--number) 
         OFFSET=$2
         shift
         # Specify number of columns to highlight
